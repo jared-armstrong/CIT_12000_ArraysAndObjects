@@ -1,6 +1,6 @@
 const entree1 = {
 
-    starter : "Bacon Cheese Fries",
+    starter: "Bacon Cheese Fries",
 
     main: "Beef Burger and Coleslaw",
 
@@ -12,7 +12,7 @@ const entree1 = {
 
 const entree2 = {
 
-    starter : "Smoked Salmon On Rye",
+    starter: "Smoked Salmon On Rye",
 
     main: "Vegetarian Couscous Rolls",
 
@@ -24,7 +24,7 @@ const entree2 = {
 
 const entree3 = {
 
-    starter : "Chips and Hummus",
+    starter: "Chips and Hummus",
 
     main: "Grilled Chicken in Hot Sauce",
 
@@ -32,9 +32,7 @@ const entree3 = {
 
 };
 
-// ... add more meal objects
 
-// Add more choices and update the array
 
 const meals = [entree1, entree2, entree3];
 
